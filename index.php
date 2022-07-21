@@ -1,5 +1,5 @@
 <?php
 
-// use {ProjetcName}; --> Don't forget to change this line!!
+use Pdi\Qu4k3r;
 
-// include_once "vendor/autoload.php";
+include_once "vendor/autoload.php";

@@ -1,0 +1,16 @@
+{
+    "name": "pdi/qu4k3r",
+    "description": "My PDI",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pdi\\Qu4k3r\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Qu4k3r"
+        }
+    ],
+    "require": {}
+}
