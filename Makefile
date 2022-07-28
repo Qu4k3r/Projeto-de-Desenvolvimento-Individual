@@ -4,6 +4,9 @@ up:
 shell:
 	@docker-compose exec app sh
 
+it-run:
+	@docker-compose exec app php /var/www/index.php
+
 init:
 	@docker-compose exec app composer init
 
