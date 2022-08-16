@@ -10,10 +10,10 @@ Não queremos isso!
 
 ## Hands On
 ### Logo abaixo podemos ver um simples código que não implementa esse princípio:
-![método que acende e apaga as luzes de uma sala de estar](src/App/Principles/SOLID/S/not-S.png "método que acende e apaga as luzes de uma sala de estar")
+![método que acende e apaga as luzes de uma sala de estar](not-S.png "método que acende e apaga as luzes de uma sala de estar")
 
 ### Aqui, vemos como podemos evitar esse tipo de repetição:
-![responsabilidades de acender e apagar luzes separadas](src/App/Principles/SOLID/S/S.png "responsabilidades de acender e apagar luzes separadas")
+![responsabilidades de acender e apagar luzes separadas](S.png "responsabilidades de acender e apagar luzes separadas")
 
 ---
 
