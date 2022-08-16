@@ -12,7 +12,7 @@ Não queremos isso!
 ### Logo abaixo podemos ver um simples código que não implementa esse princípio:
 ![método que acende e apaga as luzes de uma sala de estar](not-S.png "método que acende e apaga as luzes de uma sala de estar")
 
-### Aqui, vemos como podemos evitar esse tipo de repetição:
+### Aqui, vemos a simples implementação desse princípio:
 ![responsabilidades de acender e apagar luzes separadas](S.png "responsabilidades de acender e apagar luzes separadas")
 
 ---
