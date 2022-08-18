@@ -19,3 +19,6 @@ try {
 } catch (\Exception $e) {
     echo $e->getMessage();
 }
+
+$motorHome = new MotorHome();
+$motorHome->pagarIptu();
