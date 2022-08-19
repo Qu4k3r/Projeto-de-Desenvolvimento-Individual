@@ -22,3 +22,8 @@ try {
 
 $motorHome = new MotorHome();
 $motorHome->pagarIptu();
+
+$house = new House();
+$house->createRoom(Room, 'Living Room');
+$house->createRoom(Room, 'Bathroom');
+$house->createRoom(Room, 'Bedroom');
