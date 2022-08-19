@@ -39,3 +39,4 @@ Muito melhor, não acha? :)
 
 > ### Obs.: Misturei português com inglês, sei que não foi uma boa prática (*Sorry about that ...*)
 > ### Mero exemplo ilustrativo, sem complexidade
+> ### Esse exemplo também aplica o princípio de Segregação de Interface
