@@ -2,6 +2,8 @@
 
 namespace Qu4k3r\Pdi\App\Principles\SOLID\O;
 
-class Apartment implements ResidenceInterface
+enum BallShape
 {
+    case Circle;
+    case Oval;
 }
