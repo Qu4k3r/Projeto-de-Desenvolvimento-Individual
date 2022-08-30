@@ -6,6 +6,6 @@ class SoccerBall implements BallInterface
 {
     public function getShape(): BallShape
     {
-        return BallShape::Circle;
+        return BallShape::Spherical;
     }
 }
